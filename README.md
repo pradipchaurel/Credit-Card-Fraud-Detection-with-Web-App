@@ -3,6 +3,7 @@
 A machine learning-based project to detect fraudulent credit card transactions, integrated with a responsive Flask web interface for real-time CSV upload and fraud prediction.
 
 ---
+<img width="938" alt="Image" src="https://github.com/user-attachments/assets/76457103-fedc-410c-b131-ba82e39b3489" />
 
 ## 📂 Dataset
 
