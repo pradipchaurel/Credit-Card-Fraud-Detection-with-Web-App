@@ -36,7 +36,7 @@ A machine learning-based project to detect fraudulent credit card transactions, 
 ---
 
 ## 📁 Project Structure
-'''
+```
 Credit-Card-Fraud-Detection-with-Web-App/
 ├── app.py # Flask app
 ├── model.pkl # Trained model (pickle file)
@@ -45,7 +45,7 @@ Credit-Card-Fraud-Detection-with-Web-App/
 ├── templates/
 │ └── index_csv.html # HTML frontend
 └── README.md
-'''
+```
 ## Want to try?
 - create folder - Credit-Card-Fraud-Detection-with-Web-App
 - Inside this folder place app.py, model.pkl, templates/index_csv.html.
@@ -54,8 +54,9 @@ Credit-Card-Fraud-Detection-with-Web-App/
 - open link provided in the console 
 
 ## 📁 Machine Learning Model Structure
-
+```
 Credit-Card-Fraud-Detection/
 ├── model.ipynb 
 ├── dataset/
 │ └── creditcard.csv # Dataset (download from Kaggle)
+```
